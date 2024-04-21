@@ -1,6 +1,6 @@
 <h1>Hi, I'm Martin! </h1>
 
-<h2>👨‍💻 It Technician Projects:</h2>
+<h2>👨‍💻 IT Technician Projects:</h2>
 
 - <b>Active Directory Homelab</b>
 (https://github.com/MartinFlavelll/ActiveDirectoryLab)  
